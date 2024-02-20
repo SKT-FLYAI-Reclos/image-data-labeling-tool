@@ -15,3 +15,6 @@ A simple interface for image data labeling.
 ## Result
 
 The labeled data will be saved in the `result.json` file.
+
+<img width="403" alt="image" src="https://github.com/SKT-FLYAI-Reclos/image-data-labeling-tool/assets/87124432/eb6f633a-fd03-489c-a524-acb53da5e368">
+
